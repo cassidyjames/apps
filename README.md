@@ -4,7 +4,7 @@ Collection of apps that I want to make/wish existed for elementary OS. Sketches/
 
 - [ ] [**Anamorph**](https://github.com/cassidyjames/anamorph): De-squeeze anamorphic footage, i.e. that shot with a Moment Anamorphic lens.
 
-- [] **Backdrop**: Small collection of curated wallpapers just for elementary OS. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
+- [ ] **Backdrop**: Small collection of curated wallpapers just for elementary OS. Maybe using an Unsplash collection as a back-end, or just shipping the wallpapers with the app.
 
 - [ ] **Clack**: A simple, no-frills notepad sort of app. Just the bare minimum needed to spit some text into a .txt file.
 
