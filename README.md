@@ -24,6 +24,8 @@ Collection of apps that I want to make/wish existed for elementary OS. Sketches/
 
 - [x] [**Palette**](https://github.com/cassidyjames/palette): View and copy colors from the elementary brand palette, including semantic uses, HEX values, and GTK color constants.
 
+- [ ] **Pixels**: A pixel-perfect ruler. Inspired by [PixelSnap for Mac](https://getpixelsnap.com/).
+
 - [x] [**Principles**](https://github.com/cassidyjames/principles): Remember Dieter Rams' ten principles of good design with an applet. Loads a random princple each time, and disappears onto your wallpaper.
 
 - [ ] **Pwatypus**: Turn PWAs into pinned, integrated web apps. Like [Webpin](https://github.com/artemanufrij/webpin), but leaning more on PWA manifests and focusing on as deep of integration as possible.
