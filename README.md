@@ -28,7 +28,7 @@ Collection of apps that I want to make/wish existed for elementary OS. Sketches/
 
 - [ ] **Roost**: App for Nest smart devices, i.e. thermostat, cams, etc.
 
-- [ ] **Rundown**: Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
+- [ ] [**Rundown**](https://github.com/cassidyjames/rundown): Battery rundown app that waits until the battery is full, then power is unplugged, then it runs benchmarks until the battery dies. Use across hardware for consistent/comparable battery stats. Probably needs to do a variety of work behind the scenes, like loading webpages (WebKitGTK), maybe playing videos, occasionally hitting the CPU.
 
 - [ ] **Shortlist**: Better than wishlists. Pick a small number of items you want. This would likely be more a web service with native front-ends for at least elementary OS and Android.
 
