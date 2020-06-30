@@ -36,4 +36,6 @@ Collection of apps that I want to make/wish existed for elementary OS. Sketches/
 
 - [ ] **Shortlist**: Better than wishlists. Pick a small number of items you want. This would likely be more a web service with native front-ends for at least elementary OS and Android.
 
+- [ ] **Stickers**: A collection of cute stickers that can be pasted into apps. Ideally featuring [Adorbs](https://samuelhewitt.com/adorbs), maybe any Telegram-compatible stickers?
+
 - [ ] **Webshooter**: Your friendly neighborhood website screenshooter. Grab full-size screenshots of web pages at predefined sizes. Great for sharing prototypes.
