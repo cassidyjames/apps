@@ -8,7 +8,7 @@ Collection of apps that I want to make/wish existed for elementary OS. Sketches/
 
 - [ ] **Clack**: A simple, no-frills notepad sort of app. Just the bare minimum needed to spit some text into a .txt file.
 
-- [x] [**Clairvoyant](https://github.com/cassidyjames/clairvoyant): Magic 8-ball applet.
+- [x] [**Clairvoyant**](https://github.com/cassidyjames/clairvoyant): Magic 8-ball applet.
 
 - [ ] [**Codestash**](https://github.com/cassidyjames/codestash): Stash your code for later. Inspired by [SourceNote for Mac](https://www.sourcenoteapp.com/).
 
